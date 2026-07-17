@@ -174,6 +174,3 @@ DuckDuckGo 搜索失败（DNS/网络问题）时自动降级为 LLM 知识兜底
 
 求职方向：AI Agent 开发 / AI 应用开发
 
-## License
-
-MIT
