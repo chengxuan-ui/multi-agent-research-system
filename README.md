@@ -168,6 +168,12 @@ DuckDuckGo 搜索失败（DNS/网络问题）时自动降级为 LLM 知识兜底
 | Week 2 | Writer + Reviewer 反思迭代闭环 | ✅ 完成 |
 | Week 3 | FAISS 记忆层 + Streamlit Demo | ✅ 完成 |
 
+## 作者
+
+贾城烜 — 北华航天工业学院 · 人工智能专业 · 2027 届
+
+求职方向：AI Agent 开发 / AI 应用开发
+
 ## License
 
 MIT
